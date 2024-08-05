@@ -1,0 +1,35 @@
+body {
+    color: black;
+    background: orangered;
+    font-family: "Playwrite AR", cursive;
+}
+
+header {
+
+    border-bottom: solid 4px whitesmoke;
+    margin: 0px;
+    padding: 20px;
+    font-size: 50px;
+    color: rgb(22, 55, 170);
+    
+}
+section{
+
+    background: rgb(150, 239, 100);
+    padding-bottom: 90px;
+    padding-left: 90px;
+    display: flex;
+    justify-content: center;
+}
+.chamada-texto{
+    margin-right: 20px;
+}
+
+h1{
+    font-size: 50px;
+}
+
+p {
+    font-size: 25px;
+}
+
