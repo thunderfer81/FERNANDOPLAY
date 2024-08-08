@@ -52,3 +52,6 @@ Defina o objetivo do site: Pense no que você quer alcançar com o site. É um p
 Você pode adicionar suas próprias imagens e gráficos para dar um toque pessoal. Ferramentas como Canva podem ajudar a criar elementos visuais únicos. Escolha uma paleta de cores e fontes que representem bem o seu estilo artístico.
 - **Crie conteúdo de qualidade**
 Escreva textos claros e objetivose utilize títulos e subtítulos para organizar o conteúdo.
+
+## 4. Para saber mais...
+Acesse esse [repositório](https://drive.google.com/drive/folders/1CJ2-Lh1UJAqFmNoIrnKdQ8uXo5SYAb64?usp=sharing) com materiais da plataforma Alura para aprofundar seu conhecimento sobre os aspectos da programação.
