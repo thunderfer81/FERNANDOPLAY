@@ -2,7 +2,7 @@
 Esse documento é uma **compilação** dos comandos utilizados nas aulas de **Tecnologia e Robótica** com estudantes dos três anos do Ensino Médio. Esse documento tem outros objetivos além de auxiliar os estudantes nas atividades. Um deles é criar uma **cultura** de utilização do GitHub para armazenar seus projetos e códigos e se familiarizar com essa **tecnologia baseada na nuvem.** Dessa forma, criar esse documento com uma **linguagem de marcação** é coerente para criar esse ambiente tecnológico.
 ## 1. Glossário
 - background – cor de fundo da página;
-- body – corpo da página, ou seja, tudo que aparece no site;
+- body – repreesentra o conteúdo do _site_;
 - border – é a borda que pode ser utilizada;
 - bottom – parte de baixo de um elemento;
 - block – forma como um elemento é apresentado na página;
@@ -10,7 +10,7 @@ Esse documento é uma **compilação** dos comandos utilizados nas aulas de **Te
 - color – cor da fonte;
 - class - atributo que pode adicionar qualquer elemto HTML e atribuir um nome
 - display – propriedade que exibe o elemento na página e tem diferentes formas de exibição (ver block);
-- div – propriedade que cria divisões na página;
+- div – delimita uma seção geral usada para agrupar qualquer tipo de elemento;
 - embed – incorporar ou incluir um elemento na página (vídeos, textos, etc.);
 - font-family – família da fonte utilizada (tipo);
 - font-size – tamanho da fonte utilizada;
@@ -18,8 +18,8 @@ Esse documento é uma **compilação** dos comandos utilizados nas aulas de **Te
 - gap - colocar um espaço no layout dos elementos;
 - h1 – título da página;
 - href – especificar um link de destino para outra página, por exemplo;
-- head – onde os estilos da página são aplicados através do arquivo style.css como as fontes;
-- header – cabeçalho da página;
+- head – organiza as informações gerais do _site_ (títulos e _links_ para outros arquivos);
+- header – delimita no cabeçalho da página. Pode ter dentro um título, logo, menus etc;
 - height - 
 - hover -  
 - img - utilizado para in serir imagens em uma página;
@@ -31,7 +31,7 @@ Esse documento é uma **compilação** dos comandos utilizados nas aulas de **Te
 - p – distribuição do texto na forma de parágrafo; 
 - padding - utilizado para definir o espaço externo ao redor de um elemento (vídeo, imagem, etc.) e é sempre seguida de orientação (esquerda, direita, cima e baixo);
 - pixel - define as dimensões de um  elemento;
-- section –  usada para definir seções em um documento, agrupando conteúdo relacionado de forma lógica;
+- section – delimita uma seção genérica da página para juntar elementos semelhantes;
 - solid - 
 - src - específica a origem (source) externa de algo na página com o um link de um vídeo;
 - stylesheet - define a aparência de um documento HTML, ou página de internet;
