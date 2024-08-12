@@ -8,7 +8,7 @@ Esse documento é uma **compilação** dos comandos utilizados nas aulas de **Te
 - block – forma como um elemento é apresentado na página;
 - center – forma de alinhamento de um elemento na página;
 - color – cor da fonte;
-- class - atributo que pode adicionar qualquer elemto HTML e atribuir um nome
+- class - atributo que pode adicionar qualquer elemto HTML e atribuir um nome;
 - display – propriedade que exibe o elemento na página e tem diferentes formas de exibição (ver block);
 - div – delimita uma seção geral usada para agrupar qualquer tipo de elemento;
 - embed – incorporar ou incluir um elemento na página (vídeos, textos, etc.);
